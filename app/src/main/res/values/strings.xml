@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ScrollingText</string>
+    <string name="article_title">ScrollingText</string>
+    <string name="article_subtitle">ScrollingText</string>
+    <string name="article_text">The		android:layout_alignParentLeft		aligns	the	view	to	the	left	side	of	the		RelativeLayout		parent	view	group.	While	this attribute	by	itself	is	enough	to	align	the	view	to	the	left	side,	you	may	want	the	view	to	align	to	the	right	side	if	the	app	is running	on	a	device	that	is	using	a	right-to-left	language.	Thus,	the		android:layout_alignParentStart		attribute	makes	the "start"	edge	of	this	view	match	the	start	edge	of	the	parent.	The	start	is	the	left	edge	of	the	screen	if	the	preference	is	left-toright,	or	it	is	the	right	edge	of	the	screen	if	the	preference	is	right-to-leftPush your project to <b><i>github</i></b>. And share the link of your repo in #android channel and also If you send it to me (via direct message) it will save me from lot of headache. But Most share it in #android channel.
+\nCoding Challenge inside practical ebook are optional But I will encourage you to give it a try. If you need help with them you can ask me.
+\nPush your project to <b><i>github</i></b>. And share the link of your repo in #android channel and also If you send it to me (via direct message) it will save me from lot of headache. But Most share it in #android channel.
+\nCoding Challenge inside practical ebook are optional But I will encourage you to give it a try. If you need help with them you can ask me.</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+
+</resources>
